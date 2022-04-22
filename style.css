@@ -1,0 +1,15 @@
+.bgd{
+    background-image: url('image_2.jpg');
+    background-size: 1500px;
+    padding-bottom: 555px;
+}
+
+#heading{
+    margin-top: -10px;
+    background: rgb(240,128,128);
+    background: linear-gradient(90deg, rgba(240,128,128,1) 0%, rgba(173,216,230,1) 100%);
+}
+
+body{
+    color:white;
+}
